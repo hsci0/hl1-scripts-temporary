@@ -58,6 +58,9 @@ and there has been no work on the main one for months.)**
   - [Smg Boost Scripts](#26-smg-boost-scripts)
 - [Xen](#n-xen)
   - [Jumpbug + Viewangle](#27-jumpbugs)
+ 
+
+  - [EXTRAS](#28-extras)
 
   
 ## A. **Basic scripts**
@@ -1225,6 +1228,47 @@ alias xenv_dolb3 "w 13; -left; -moveleft; +bxt_tas_jumpbug; bxt_autopause 0; w 3
 https://github.com/user-attachments/assets/29df6345-e4fe-4593-bec8-cb019d62ca77
 
   </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 28. Extras
+
+**This part will cover any extra stuff that i want to add, or you could ask me if you want to me to add something to here. (Contact me on discord: hsci0)**
+
+  
+### 1a. Blast Pit Full Guide + Hardest Route
+
+<details>
+  <summary>Extend To See</summary>
+  
+ [link](https://www.youtube.com/watch?v=E4h4jmzd-gI)\
+
+ </details>
+
+`Done on 02/01/2026 coaching session with guru(venusresident)
+This covers the current hardest route in scripted blast pit (every scripts including hl21 box script)`
   
 
 
