@@ -60,7 +60,7 @@ and there has been no work on the main one for months.)**
   - [Jumpbug + Viewangle](#27-jumpbugs)
  
 
-  - [EXTRAS](#28-extras)
+- [EXTRAS](#28-extras)
 
   
 ## A. **Basic scripts**
