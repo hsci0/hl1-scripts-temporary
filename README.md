@@ -61,8 +61,7 @@ and there has been no work on the main one for months.)**
  
 
 - [EXTRAS](#28-extras)
-  - [1a. Blast Pit Full Guide + Hardest Route](#1a-blast-pit-full-guide-hardest-route)
-]
+  - [1a. Blast Pit Full Guide + Hardest Route](#1a-blast-pit-full-guide--hardest-route)
   
 ## A. **Basic scripts**
 ### 1. Usespam script
