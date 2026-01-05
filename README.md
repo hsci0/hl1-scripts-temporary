@@ -1233,26 +1233,6 @@ https://github.com/user-attachments/assets/29df6345-e4fe-4593-bec8-cb019d62ca77
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 28. Extras
 
 **This part will cover any extra stuff that i want to add, or you could ask me if you want to me to add something to here. (Contact me on discord: hsci0)**
@@ -1265,11 +1245,11 @@ https://github.com/user-attachments/assets/29df6345-e4fe-4593-bec8-cb019d62ca77
   
  [link](https://www.youtube.com/watch?v=E4h4jmzd-gI)\
 
- </details>
 
 `Done on 02/01/2026 coaching session with guru(venusresident)
 This covers the current hardest route in scripted blast pit (every scripts including hl21 box script)`
-  
+
+   </details>
 
 
 
